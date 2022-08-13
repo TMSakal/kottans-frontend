@@ -11,3 +11,13 @@ ___
 * сейчас для меня все в новинку. Сам __Git__ - является для меня чем-то новым,неизведанным. Но все же, допустим команда __git init__, команда с помощью которой я научился создавать репозиторий на своем компьютере
 * удивила команда __git cherry-pick__
 * __git init, git clone, git status__ - их, и многие другие я буду точно использовать в будущем
+<details>
+<summary><strong>Coursera weeks</strong></summary>
+![Coursera weeks](C:/Users/kino/Sakal/IT/WebProjects/Kottans-frontend/kottans-frontend/Img/General/Git Basics/Coursera Week One.jpg)
+![Coursera weeks](C:/Users/kino/Sakal/IT/WebProjects/Kottans-frontend/kottans-frontend/Img/General/Git Basics/Coursera Week Two.jpg)
+</details>
+<details>
+<summary><strong>Learngitbranching tasks</strong></summary>
+![Learngitbranching tasks](C:/Users/kino/Sakal/IT/WebProjects/Kottans-frontend/kottans-frontend/Img/General/Git Basics/Learngitbranching.js.org - Main.jpg)
+![Learngitbranching tasks](C:/Users/kino/Sakal/IT/WebProjects/Kottans-frontend/kottans-frontend/Img/General/Git Basics/Learngitbranching.js.org - Remote.jpg)
+</details>
