@@ -13,7 +13,7 @@ ___
 * __git init, git clone, git status__ - их, и многие другие я буду точно использовать в будущем
 <details>
 <summary><strong>Coursera weeks</strong></summary>
-![Coursera weeks](https://github.com/TMSakal/kottans-frontend/blob/673aec1558d7b5d656185f9f9b70acac1db86840/Img/General/Git%20Basics/Coursera%20Week%20One.jpg)
+![Coursera weeks](Img/General/Git Basics/Coursera Week One.jpg)
 ![Coursera weeks](https://github.com/TMSakal/kottans-frontend/blob/673aec1558d7b5d656185f9f9b70acac1db86840/Img/General/Git%20Basics/Coursera%20Week%20Two.jpg)
 </details>
 <details>
