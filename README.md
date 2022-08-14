@@ -13,11 +13,7 @@ ___
 * __git init, git clone, git status__ - их, и многие другие я буду точно использовать в будущем
 <details>
 <summary><strong>Coursera weeks</strong></summary>
-![Coursera weeks](C:/Users/kino/Sakal/IT/WebProjects/Kottans-frontend/kottans-frontend/Img/General/Git Basics/Coursera Week One.jpg)
-![Coursera weeks](C:/Users/kino/Sakal/IT/WebProjects/Kottans-frontend/kottans-frontend/Img/General/Git Basics/Coursera Week Two.jpg)
 </details>
 <details>
 <summary><strong>Learngitbranching tasks</strong></summary>
-![Learngitbranching tasks](C:/Users/kino/Sakal/IT/WebProjects/Kottans-frontend/kottans-frontend/Img/General/Git Basics/Learngitbranching.js.org - Main.jpg)
-![Learngitbranching tasks](C:/Users/kino/Sakal/IT/WebProjects/Kottans-frontend/kottans-frontend/Img/General/Git Basics/Learngitbranching.js.org - Remote.jpg)
 </details>
