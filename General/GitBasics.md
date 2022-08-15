@@ -14,4 +14,4 @@
 <summary><strong>Learngitbranching tasks</strong></summary>
 <img src="https://github.com/TMSakal/kottans-frontend/blob/main/Img/General/GitBasics/Learngitbranching_Main.jpg?raw=true" alt="Learngitbranching tasks Main" />
 <img src="https://github.com/TMSakal/kottans-frontend/blob/main/Img/General/GitBasics/Learngitbranching_Remote.jpg?raw=true" alt="Learngitbranching tasks Remote" />
-</details>
+</details> 
