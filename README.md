@@ -13,18 +13,11 @@ ___
 * __git init, git clone, git status__ - их, и многие другие я буду точно использовать в будущем
 <details>
 <summary><strong>Coursera weeks</strong></summary>
-<<<<<<< HEAD
+<img src="https://github.com/TMSakal/kottans-frontend/blob/main/Img/General/GitBasics/Coursera_Week_One.jpg?raw=true" alt="Coursera week One" />
+<img src="https://github.com/TMSakal/kottans-frontend/blob/main/Img/General/GitBasics/Coursera_Week_Two.jpg?raw=true" alt="Coursera week Two" />
 </details>
 <details>
 <summary><strong>Learngitbranching tasks</strong></summary>
+<img src="https://github.com/TMSakal/kottans-frontend/blob/main/Img/General/GitBasics/Learngitbranching_Main.jpg?raw=true" alt="Learngitbranching tasks Main" />
+<img src="https://github.com/TMSakal/kottans-frontend/blob/main/Img/General/GitBasics/Learngitbranching_Remote.jpg?raw=true" alt="Learngitbranching tasks Remote" />
 </details>
-=======
-![Coursera weeks](Img/General/Git Basics/Coursera Week One.jpg)
-![Coursera weeks](https://github.com/TMSakal/kottans-frontend/blob/673aec1558d7b5d656185f9f9b70acac1db86840/Img/General/Git%20Basics/Coursera%20Week%20Two.jpg)
-</details>
-<details>
-<summary><strong>Learngitbranching tasks</strong></summary>
-![Learngitbranching tasks](https://github.com/TMSakal/kottans-frontend/blob/673aec1558d7b5d656185f9f9b70acac1db86840/Img/General/Git%20Basics/Learngitbranching.js.org%20-%20Main.jpg)
-![Learngitbranching tasks](https://github.com/TMSakal/kottans-frontend/blob/673aec1558d7b5d656185f9f9b70acac1db86840/Img/General/Git%20Basics/Learngitbranching.js.org%20-%20Remote.jpg)
-</details>
->>>>>>> c088aad8525b631377b8876f12f068573d0bef98
